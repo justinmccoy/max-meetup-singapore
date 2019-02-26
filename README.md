@@ -1,4 +1,4 @@
-# Welcome to the first MAX-Model-Exhange Meetup in Singapore in 2019
+# Welcome to the first MAX-Model-Exchange Meetup in Singapore in 2019
 Date Time: 
 Location: <address> (map)
 
