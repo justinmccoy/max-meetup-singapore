@@ -21,15 +21,18 @@ During this meetup you will learn how to
 
 ## Agenda
 * Networking (food/beer) 
+* Introductions
 * Code Overview and Discussion
 * Goodbyes
 
 
 ## Speakers
+[Flik CB Fok](https://www.linkedin.com/in/flik-fok-588a542a/), IBM Developer Advocate in Singapore.
 
 [Justin McCoy](https://www.linkedin.com/in/mccoyjus/), IBM Developer Advocate in Austin, Texas. Sculpting a beautiful and simplified world through software and art. With 12 years of experience bringing the latest open source technologies to enterprise with IBM’s big iron, he knows what it takes to move from idea to production. With a passion for the client experience, he is currently focused on Cloud Computing, Machine Learning, Deep Learning, and Data Science. You’ll usually find him playing ultimate frisbee, running, or talking about the future of technology.
 
 ## Additional Resources
+* [Request IBM Cloud Promo Code](https://ibm.biz/promo-code)
 * MAX Model Exchange
 * Cloud Kubernetes Service
 * Dockerhub 
