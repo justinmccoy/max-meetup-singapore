@@ -9,6 +9,7 @@ BLOCK71 71 Ayer Rajah Crescent, #02-01, Singapore 139951 ([map](https://www.goog
 
 
 ## Overview
+**[Code](https://github.com/justinmccoy/MAX-Image-Segmenter-Web-App)**
 
 Come join like minded developers to learn how to use an OpenSource image segmentation deep learning model to detect different types of objects from within images, and build a drag-and-drop web application interface to combine them or create new images. 
 
@@ -18,6 +19,8 @@ During this meetup you will learn how to
 * Recognize object segments in an image using the MAX Model’s REST API
 * Run a web application that uses the model’s REST API on a Coud Kubernetes Cluster
 * Interact with processed object segments to create new images
+
+**[Code Pattern](https://github.com/justinmccoy/MAX-Image-Segmenter-Web-App)**
 
 ![Image Segmentation Example](docs/images/image-segmentation.jpeg)
 
