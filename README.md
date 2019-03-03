@@ -9,7 +9,6 @@ BLOCK71 71 Ayer Rajah Crescent, #02-01, Singapore 139951 ([map](https://www.goog
 
 
 ## Overview
-**[Code](https://github.com/justinmccoy/MAX-Image-Segmenter-Web-App)**
 
 Come join like minded developers to learn how to use an OpenSource image segmentation deep learning model to detect different types of objects from within images, and build a drag-and-drop web application interface to combine them or create new images. 
 
@@ -29,13 +28,13 @@ During this meetup you will learn how to
 ![IBM Cloud](docs/images/ibm-cloud.png)
 
 ## Agenda
-| Time | Description |
-| :---- |- |
-| 18:30 | Check-in & Networking (food/beer) |
-| 19:00 | Introductions |
-| 19:10 | Code Overview and Discussion |
-| 20:15 | Q & A
-| 21:00 | Goodbyes |
+| Time |  | |
+| :---- |- |- |
+| 18:30 | Check-in & Networking (food/beer) | |
+| 19:00 | Introductions | |
+| 19:10 | Code Overview and Discussion |[Code](https://github.com/justinmccoy/MAX-Image-Segmenter-Web-App) | |
+| 20:15 | Q & A | |
+| 21:00 | Goodbyes | |
 
 
 ## Speakers
