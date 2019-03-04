@@ -32,7 +32,8 @@ During this meetup you will learn how to
 | :---- |- |- |
 | 18:30 | Check-in & Networking (food/beer) | |
 | 19:00 | Introductions | |
-| 19:10 | Code Overview and Discussion |[Code 1](https://github.com/IBM/MAX-Image-Segmenter) [Code 2](https://github.com/IBM/MAX-Image-Segmenter-Web-App#buildrun-max-model--web-app-in-one-step-with-docker-compose) | |
+| 19:10 | Code Overview and Discussion |[Code 1](https://github.com/IBM/MAX-Image-Segmenter) 
+[Code 2](https://github.com/IBM/MAX-Image-Segmenter-Web-App#buildrun-max-model--web-app-in-one-step-with-docker-compose) | |
 | 20:15 | Q & A | |
 | 21:00 | Goodbyes | |
 
