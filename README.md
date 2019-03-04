@@ -19,7 +19,7 @@ During this meetup you will learn how to
 * Run a web application that uses the model’s REST API on a Coud Kubernetes Cluster
 * Interact with processed object segments to create new images
 
-**[Code Pattern](https://github.com/justinmccoy/MAX-Image-Segmenter-Web-App)**
+**[Code Pattern](https://developer.ibm.com/patterns/max-image-segmenter-magic-cropping-tool-web-app/)**
 
 ![Image Segmentation Example](docs/images/image-segmentation.jpeg)
 
@@ -32,7 +32,7 @@ During this meetup you will learn how to
 | :---- |- |- |
 | 18:30 | Check-in & Networking (food/beer) | |
 | 19:00 | Introductions | |
-| 19:10 | Code Overview and Discussion |[Code](https://github.com/justinmccoy/MAX-Image-Segmenter-Web-App) | |
+| 19:10 | Code Overview and Discussion |[Code 1](https://github.com/IBM/MAX-Image-Segmenter) [Code 2](https://github.com/IBM/MAX-Image-Segmenter-Web-App#buildrun-max-model--web-app-in-one-step-with-docker-compose) | |
 | 20:15 | Q & A | |
 | 21:00 | Goodbyes | |
 
